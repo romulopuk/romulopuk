@@ -12,7 +12,6 @@ Esse é meu repositório de estudo no Github.
 - Coffee Spring Bff : https://github.com/romulopuk/aulas_coffee-spring-bff
 - JDev Projeto : https://github.com/romulopuk/aulas_jdevproj
 - Terraform Basics : https://github.com/romulopuk/aulas_terraform-basics
-- Alura Kubernetes : https://github.com/romulopuk/aulas_alura-kubernetes
 - IGTI Pratica Google Charts : https://github.com/romulopuk/aulas_igti-pratica-googlecharts
 - IGTI Conteúdo Pós : https://github.com/romulopuk/aulas_igti-conteudo-pos
 - IGTI IMC : https://github.com/romulopuk/aulas_igti-imc
